@@ -13,10 +13,6 @@ This script takes a SHA-256 hash as input and attempts to crack it by checking a
 
 - <b>Kali Linux</b>
 
-<h2>YouTube</h2>
-
-- <b>[SSH Login Brute Force](https://youtu.be/76e0xclOxRY)</b>
-
 <h2>Example of SHA256 Password Cracking</h2>
 
 <p align="left">
